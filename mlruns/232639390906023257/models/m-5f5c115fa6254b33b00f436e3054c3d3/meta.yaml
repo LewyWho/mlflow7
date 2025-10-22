@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/l3wyw/Documents/code/ML/%D0%A0%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/7/mlruns/232639390906023257/models/m-5f5c115fa6254b33b00f436e3054c3d3/artifacts
+creation_timestamp: 1761127894223
+experiment_id: '232639390906023257'
+last_updated_timestamp: 1761127900609
+model_id: m-5f5c115fa6254b33b00f436e3054c3d3
+model_type: null
+name: model
+source_run_id: 011ba5063d23466fb998cf90ec580c40
+status: 2
+status_message: null
