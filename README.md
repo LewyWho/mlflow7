@@ -233,9 +233,8 @@ Write-Host "Testing Docker container..."
 Invoke-RestMethod -Uri http://127.0.0.1:1234/predict -Method POST -ContentType "application/json" -Body $body
 ```
 
-## 8. Что сдавать
 
-### Скриншоты:
+## Скриншоты:
 
 1. **MLflow UI**
    ![1761131185776](image/README/1761131185776.png)
